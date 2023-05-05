@@ -9,5 +9,4 @@ public enum Commands {
     DELETE,
     EXIT,
     NULL
-    
 }
